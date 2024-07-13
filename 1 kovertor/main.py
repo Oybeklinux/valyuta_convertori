@@ -5,4 +5,6 @@ app = QApplication()
 widget = Widget()
 widget.show()
 
+
+print("")
 app.exec()
